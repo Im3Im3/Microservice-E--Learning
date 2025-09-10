@@ -14,9 +14,8 @@
 
   <name>microservice-app</name>
 <modules>
-  <module>
-    Microservice_course
-  </module>
+  <module>Microservice_course</module>
+  <module>Microservice_eureka</module>
 </modules>
 
 
