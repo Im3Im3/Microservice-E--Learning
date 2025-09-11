@@ -81,6 +81,3 @@ Contenedores: Docker.
 Gestión de repositorios: Git + GitHub.
 
 
-Imagen referencial 
-<img width="1852" height="919" alt="image" src="https://github.com/user-attachments/assets/422438d8-ee87-4678-9e76-da402ac3ab7c" />
-
