@@ -79,5 +79,6 @@ Mensajería/colas (futuro): RabbitMQ o Kafka.
 Contenedores: Docker.
 
 Gestión de repositorios: Git + GitHub.
+IMAGEN DE MUESTRA EN FIGMA
 
 
