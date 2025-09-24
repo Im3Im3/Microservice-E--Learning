@@ -80,6 +80,7 @@ Mensajería/colas (futuro): RabbitMQ o Kafka.
 Contenedores: Docker.
 
 Gestión de repositorios: Git + GitHub.
+Creacion de diferentes apartados en figma
 CONFLICTOS GENERADOS
 
 <img width="882" height="456" alt="image" src="https://github.com/user-attachments/assets/f278da02-d6e8-4ae6-bdde-56f0465cc4b5" />
