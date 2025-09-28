@@ -6,6 +6,7 @@ Se busca escalabilidad, modularidad y facilidad de despliegue en entornos distri
 Requerimientos funcionales
 
 Gestión de cursos
+1ERA ENTREGA
 
 Crear, editar, eliminar y listar cursos.
 
