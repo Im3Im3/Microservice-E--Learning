@@ -35,7 +35,7 @@ Servicio de inscripciones.
 Servicio de notificaciones (ej: recordatorios por email).
 2da implementacion
 
-API RESTful
+API RESTFULL
 
 Endpoints documentados para cada servicio.
 
