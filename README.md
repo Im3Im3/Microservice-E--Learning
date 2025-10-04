@@ -66,7 +66,6 @@ Base de datos: MySQL/PostgreSQL (según microservicio).
 Mensajería/colas (futuro): RabbitMQ o Kafka.
 
 Contenedores: Docker.
-1r docker
 Gestión de repositorios: Git + GitHub.
 
 📦 Tecnologías a usar (mínimas)
