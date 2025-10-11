@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo construir una plataforma de aprendizaje en lí
 Se busca escalabilidad, modularidad y facilidad de despliegue en entornos distribuidos.
 Requerimientos funcionales
 
-Gestión de cursos
+Gestión de Recursos
 
 Crear, editar, eliminar y listar cursos.
 
