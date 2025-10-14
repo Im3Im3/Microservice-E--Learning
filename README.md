@@ -3,7 +3,7 @@ Sistema de cursos----> (google cloud)-----
 MODULO 1
 Este proyecto tiene como objetivo construir una plataforma de aprendizaje en línea basada en microservicios, que permita la gestión de cursos, usuarios, inscripciones y otros módulos relacionados a la educación digital.
 Se busca escalabilidad, modularidad y facilidad de despliegue en entornos distribuidos.
-Requerimientos funcionales
+Requerimientos funcionales.
 
 Gestión de Recursos
 
