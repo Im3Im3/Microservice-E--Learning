@@ -17,8 +17,6 @@ Registro y autenticación de estudiantes y docentes.
 
 Perfil de usuario con historial de cursos.
 
-Inscripciones y matrículas
-
 Los estudiantes pueden inscribirse en cursos disponibles.
 
 Validación de cupos y disponibilidad.
