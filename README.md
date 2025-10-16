@@ -78,7 +78,7 @@ Contenedores: Docker.
 
 Gestión de repositorios: Git + GitHub.
 Creacion de diferentes apartados en figma
-IMAGEN 1
+IMAGEN 
 
 
 <img width="625" height="273" alt="image" src="https://github.com/user-attachments/assets/aa0861e9-c10c-47e9-bcf7-f1298d705cc3" />
